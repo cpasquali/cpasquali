@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Coni Pasquali
 
-Soy desarrolladora apasionada por la tecnología y el desarrollo de software. Me encanta crear proyectos que no solo funcionan, sino que también tienen un diseño atractivo y una experiencia de usuario pulida.
+Soy un desarrollador apasionado por la tecnología y el desarrollo de software. Me encanta crear proyectos que no solo funcionan, sino que también tienen un diseño atractivo y una experiencia de usuario pulida.
 
 ---
 
