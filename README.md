@@ -33,8 +33,8 @@ Soy un desarrollador apasionado por la tecnología y el desarrollo de software. 
 ## 📫 Contacto
 
 - ✉️ Email: constantinopasquali29@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
-- 🌐 Portfolio: [tu-portfolio.com](https://tu-portfolio.com)  
+- 🔗 LinkedIn: [linkedin.com/in/constantino-pasquali](https://www.linkedin.com/in/constantino-pasquali-6219922a5/)  
+- 🌐 Portfolio: [cpasquali.vercel.app](https://cpasquali.vercel.app/)  
 
 ---
 
