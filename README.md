@@ -20,29 +20,19 @@ Soy un desarrollador apasionado por la tecnología y el desarrollo de software. 
 
 ## 🚀 Proyectos Destacados
 
-### [Conecta](https://github.com/tuusuario/conecta)
+### [Conecta](https://cpasquali.vercel.app/project-info.html?name=Conecta)
 📌 Red social Fullstack con React, Express y MySQL.  
 ✅ Registro, login, posts, likes, comentarios y sistema de seguidores.
 
-### [TecnoApp](https://github.com/tuusuario/tecnoapp)
-📌 E-commerce con React y Tailwind.  
-✅ Carrito de compras, filtrado de productos y diseño responsive.
-
-### [Portfolio](https://github.com/tuusuario/portfolio)
-📌 Mi portfolio personal.  
-✅ Muestra mis proyectos, habilidades y contacto. Incluye modo oscuro y animaciones.
-
----
-
-## 📈 Estadísticas GitHub
-
-![Coni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+### [TecnoApp](https://cpasquali.vercel.app/project-info.html?name=Cinemania)
+📌 Pagina de peliculas con React y Tailwind.  
+✅ Buscador de peliculas y series, filtrado por medio de categorias y diseño responsive.
 
 ---
 
 ## 📫 Contacto
 
-- ✉️ Email: tuemail@gmail.com  
+- ✉️ Email: constantinopasquali29@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
 - 🌐 Portfolio: [tu-portfolio.com](https://tu-portfolio.com)  
 
